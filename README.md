@@ -35,7 +35,7 @@
 - Software Engineering 💡
 
 ## Projects 
-- [Coldfront Resource Allocation Tool](https://github.com/fasrc/coldfront) Write code with Python Django framework and SQLite database for extraction, loading data to the database for Harvard University FAS Research Computing Department
+- [Coldfront Resource Allocation Tool](https://github.com/fasrc/coldfront): Write code with Python Django framework and SQLite database for extraction, loading data to the database for Harvard University FAS Research Computing Department
 
 ## How to reach me
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
